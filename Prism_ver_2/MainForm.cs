@@ -13,12 +13,12 @@ using System.IO;
 
 namespace Sharp_Prism
 {
-    public partial class MainFaom : Form
+    public partial class MainForm : Form
     {
         int lpx, lpy;
         MoveObject mobject;
         MainPrism MainPrissm = new MainPrism();
-        public MainFaom()
+        public MainForm()
         {
 
             InitializeComponent();
@@ -80,10 +80,6 @@ namespace Sharp_Prism
             MainPrissm.Draw(e);
         }
 
-        private void dsToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MainPrissm.Info();
-        }
 
         private void настройкиЦветаToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -165,16 +161,7 @@ namespace Sharp_Prism
             }
         }
 
-        private void заданиеToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-           //Help gdl = new Help();
-           // gdl.ShowDialog();
-        }
 
-        private void выполнилToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Author: Аргутинский В.С. \n 5пми-3дб-061 \n 2011");
-        }
 
         private void сохранитьЧерчежToolStripMenuItem_Click(object sender, EventArgs e)
         {

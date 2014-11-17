@@ -15,7 +15,7 @@ namespace Sharp_Prism
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainFaom());
+            Application.Run(new MainForm());
         }
     }
 }

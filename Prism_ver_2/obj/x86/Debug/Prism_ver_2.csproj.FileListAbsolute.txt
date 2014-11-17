@@ -45,3 +45,13 @@ D:\PRJ\sem_V\C#\lab\Lab_Prizma\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.PS.re
 D:\PRJ\sem_V\C#\lab\Lab_Prizma\Prism\Prism_ver_2\obj\x86\Debug\Prism_ver_2.csproj.GenerateResource.Cache
 D:\PRJ\sem_V\C#\lab\Lab_Prizma\Prism\Prism_ver_2\obj\x86\Debug\Призма.exe
 D:\PRJ\sem_V\C#\lab\Lab_Prizma\Prism\Prism_ver_2\obj\x86\Debug\Призма.pdb
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\bin\Debug\Призма.exe
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\bin\Debug\Призма.pdb
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.MainFaom.resources
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.MDlg.resources
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.PenPointSize.resources
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.Properties.Resources.resources
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Sharp_Prism.PS.resources
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Prism_ver_2.csproj.GenerateResource.Cache
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Призма.exe
+C:\Users\BNG\Documents\GitHub\Prism\Prism_ver_2\obj\x86\Debug\Призма.pdb
